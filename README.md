@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadugarKalakaboola
+- 👋 Hi, I’m Siddharth Sharma
 - 👀 I’m interested in Programming
 - 🌱 I’m currently mastering Javascript
 - 🚩 Currently my main domain is Web Developement
