@@ -3,7 +3,8 @@
 - 🌱 I’m currently mastering Javascript
 - 🚩 Currently my main domain is Web Developement
 - 📫 How to reach me - 
-      sid.sharma1704@gmail.com
+      https://siddharthsharma.ml
+      
 
 <!---
 JadugarKalakaboola/JadugarKalakaboola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
